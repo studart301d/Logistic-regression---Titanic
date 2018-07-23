@@ -1,1 +1,1 @@
-# Logistic-regression---Titanic
+# Logistic-regression-Titanic
